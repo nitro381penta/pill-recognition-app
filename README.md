@@ -7,6 +7,7 @@ Dataset 1:
 - https://datadiscovery.nlm.nih.gov/Drugs-and-Chemicals/Computational-Photography-Project-for-Pill-Identif/5jdf-gdqh/about_data (provided by the National Library of Medicine)
 Dataset 2:
 - https://www.kaggle.com/datasets/trumedicines/pharmaceutical-tablets-dataset (provided by Gaurav Dutta on Kaggle)
+
 NOTE:
 Due to the size of the dataset the datasets must be downloaded if the code should be run.
 
