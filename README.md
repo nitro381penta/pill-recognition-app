@@ -18,7 +18,7 @@ How to run the code:
       - metadata: table.csv from Dataset 1, Training_set.csv from Dataset 2
       - images in folders: original from Dataset 1, train from Dataset 2
       After downloading the datasets please insert the path to both the metadata and the images in order to run the code.
-    > needs the following packages installed:
+    > Please make sure the following packages are installed:
       - numpy
       - pandas
       - cv2
