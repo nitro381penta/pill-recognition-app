@@ -8,7 +8,7 @@ The datasets that I used are to find on:
 - https://www.kaggle.com/datasets/trumedicines/pharmaceutical-tablets-dataset (provided by Gaurav Dutta on Kaggle)
 
 How to run the code:
-- The folder contains the following files:
+- Repository File Overview:
   - DrIDENT-code.py
     > needs the following files to run:
       - metadata: table.csv, Training_set.csv
