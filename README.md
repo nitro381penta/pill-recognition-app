@@ -1,7 +1,7 @@
-### DrIDENT: THE APP FOR PILL RECOGNITION
+# DrIDENT: THE APP FOR PILL RECOGNITION
 A model designed to recognize solid pharmaceuticals 
 
-# THE DATASET
+### THE DATASET
 
 The datasets that I used are to find on:
 - https://datadiscovery.nlm.nih.gov/Drugs-and-Chemicals/Computational-Photography-Project-for-Pill-Identif/5jdf-gdqh/about_data
