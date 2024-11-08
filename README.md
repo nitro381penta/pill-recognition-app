@@ -28,7 +28,7 @@ How to run the code:
       - tensorflow
       - pickle
       - scikit-learn
-      - flask
+      - streamlit
       - tf2onnx
       - PIL
       - io
