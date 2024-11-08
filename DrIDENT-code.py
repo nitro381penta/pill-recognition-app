@@ -17,7 +17,6 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 import pickle
 import tf2onnx  
-from flask import Flask, request, jsonify
 from tensorflow.keras.models import load_model
 import tensorflow as tf
 import numpy as np
